@@ -6,6 +6,7 @@ public class HelloWorld {
 		int a = 56;
 		int b = 67;
 		System.out.println(a+b);
+		System.out.println(a-b);
 		
 	}
 }
