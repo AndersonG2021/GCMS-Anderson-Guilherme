@@ -10,5 +10,9 @@ public class HelloWorld {
 		
 		System.out.println("Mudança No Código");
 		System.out.println("Mais uma mudança");
+		
+		System.out.println("Hotfix");
+		System.out.println("Hotfix2");
+		System.out.println("Hotfix3");
 	}
 }
